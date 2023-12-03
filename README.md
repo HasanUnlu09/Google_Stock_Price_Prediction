@@ -18,3 +18,5 @@ Below image shows that evaluation results of each ML models;
 Below image shows that Actual stock prices and Prdicted stock prices over time on the  same graph. Thus, it can be seen that models are performed almost perfectly which might cause from the overfiftting issue.
 ![Predicted_Actual_Sock_Price_Distribution_Over_Time_In_The_Same_Plot](https://github.com/HasanUnlu09/Google_Stock_Price_Prediction/assets/133260754/bbe4e259-77bb-4ebe-98aa-548fe93b35ca)
 
+!!! If you would like to reach me out about this project you can yuse following e-mail address;
+**hasan.09.unlu@gmail.com**
