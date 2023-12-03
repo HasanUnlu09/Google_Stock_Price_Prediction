@@ -13,10 +13,12 @@ Below image shows that Google stock price distribution over time as both Line Pl
 ![Google_Stock_Price_Distribution_Over_Time](https://github.com/HasanUnlu09/Google_Stock_Price_Prediction/assets/133260754/0b629080-7386-42d2-b463-8a0d012334de)
 
 Below image shows that evaluation results of each ML models;
-![Evaluation_Results_For_Each_ML_Models](https://github.com/HasanUnlu09/Google_Stock_Price_Prediction/assets/133260754/47931623-9612-499e-8081-53a45889feb8)
+![Evaluation_Results_For_Each_ML_Models](https://github.com/HasanUnlu09/Google_Stock_Price_Prediction/assets/133260754/792abee5-175d-4c84-a62e-b6a66e5ca1f8)
+
 
 Below image shows that Actual stock prices and Prdicted stock prices over time on the  same graph. Thus, it can be seen that models are performed almost perfectly which might cause from the overfiftting issue.
-![Predicted_Actual_Sock_Price_Distribution_Over_Time_In_The_Same_Plot](https://github.com/HasanUnlu09/Google_Stock_Price_Prediction/assets/133260754/bbe4e259-77bb-4ebe-98aa-548fe93b35ca)
+![Predicted_Actual_Sock_Price_Distribution_Over_Time_In_The_Same_Plot](https://github.com/HasanUnlu09/Google_Stock_Price_Prediction/assets/133260754/e1316157-761a-4d6f-ba62-a82c9770db1f)
+
 
 !!! If you would like to reach me out about this project you can yuse following e-mail address;
 **hasan.09.unlu@gmail.com**
