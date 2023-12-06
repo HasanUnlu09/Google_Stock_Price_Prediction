@@ -20,5 +20,5 @@ Below image shows that Actual stock prices and Prdicted stock prices over time o
 ![Predicted_Actual_Sock_Price_Distribution_Over_Time_In_The_Same_Plot](https://github.com/HasanUnlu09/Google_Stock_Price_Prediction/assets/133260754/e1316157-761a-4d6f-ba62-a82c9770db1f)
 
 
-!!! If you would like to reach me out about this project you can yuse following e-mail address;
+!!! If you would like to reach me out about this project you can use following e-mail address;
 **hasan.09.unlu@gmail.com**
